@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabiahaque
-- 👀 I’m interested in ... software developer 
-- 🌱 I’m currently learning ... MCA
+- 👀 I’m interested in ... Coding
+- 🌱 I’m currently learning ... Java, Advance software engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... saba.290@gmail.com
 
