@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabiahaque
+- 👋 Hi, I’m @SabiaAlam
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Java, Advance software engineering 
 - 💞️ I’m looking to collaborate on ...
